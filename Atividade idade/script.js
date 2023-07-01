@@ -23,7 +23,7 @@ function verificar() {
         img.setAttribute('src', 'idoso.png')
       }
     } else if (fsex[1].checked) {
-      gênero = 'Homem'
+      gênero = 'Mulher'
       if (idade >= 0 && idade < 10) {
         img.setAttribute('src', 'mulhercrianca.png')
       }else if (idade < 21) {
