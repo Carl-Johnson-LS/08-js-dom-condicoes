@@ -1,5 +1,5 @@
 body {
-    background: rgb(70, 142, 236);
+    background: rgb(94, 94, 180);
     font: normal 15pt Arial;
 }
 
@@ -19,7 +19,7 @@ section {
 
 div {
     text-align: center;
-    padding: 8px;
+    padding: 5px;
 }
 
 footer {
